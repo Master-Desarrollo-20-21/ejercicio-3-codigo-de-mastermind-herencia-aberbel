@@ -1,3 +1,6 @@
+import master.poo.exercise.mastermind.basico.last.Game;
+import master.poo.exercise.mastermind.basico.last.utils.Console;
+
 public class Mastermind { 
 
   private Game game; 
